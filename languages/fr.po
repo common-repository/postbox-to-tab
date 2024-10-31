@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Postbox to Tab\n"
+"POT-Creation-Date: 2016-10-18 12:51+0200\n"
+"PO-Revision-Date: 2016-10-18 12:51+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: options.php:13
+msgid "Enable"
+msgstr "Actif"
+
+#: options.php:21
+msgid "Post types"
+msgstr "Types d’article"
+
+#: options.php:29
+msgid "Postbox zones"
+msgstr "Zones de « Postbox »"
+
+#: options.php:39
+msgid "Select where the plugin is enabled."
+msgstr "Sélectionner les emplacements où le plugin est activé."
+
+#: options.php:66
+msgid "Normal <em>(below post content)</em>."
+msgstr "Normal <em>(en dessous du contenu)</em>"
+
+#: options.php:67
+msgid "Advanced <em>(below normal zone)</em>."
+msgstr "Avancé <em>(en dessous de la zone normale)</em>"
+
+#: options.php:68
+msgid "Side <em>(next to post content)</em>."
+msgstr "Latéral <em>(à côté du contenu)</em>"
+
+#: options.php:94
+msgid "Postbox to Tab options"
+msgstr "Options de Postbox to Tab"
+
+#: options.php:95
+msgid "Postbox to Tab"
+msgstr "Postbox to Tab"
+
+#: postbox-to-tab.php:111
+msgid "Options"
+msgstr "Options"
